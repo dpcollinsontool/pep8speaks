@@ -13,7 +13,7 @@
     "scanner": {"diff_only": false},
     "pycodestyle": {
         "ignore": [],
-        "max-line-length": 79,
+        "max-line-length": 100,
         "count": false,
         "first": false,
         "show-pep8": false,
